@@ -1,0 +1,1554 @@
+@relation preguntas_test_unk__BoW_NonSparse
+
+@attribute 'label ' numeric
+@attribute 1700 numeric
+@attribute 1859 numeric
+@attribute 1900 numeric
+@attribute 1903 numeric
+@attribute 1913 numeric
+@attribute 1957 numeric
+@attribute 1961 numeric
+@attribute 1989 numeric
+@attribute 1994 numeric
+@attribute 2 numeric
+@attribute 22nd numeric
+@attribute 23rd numeric
+@attribute 35824 numeric
+@attribute 48 numeric
+@attribute a numeric
+@attribute abbreviation numeric
+@attribute abolish numeric
+@attribute abolitionist numeric
+@attribute aborigines numeric
+@attribute abraham numeric
+@attribute absorbed numeric
+@attribute acetaminophen numeric
+@attribute acetic numeric
+@attribute acid numeric
+@attribute acronym numeric
+@attribute across numeric
+@attribute active numeric
+@attribute actress numeric
+@attribute acupuncture numeric
+@attribute address numeric
+@attribute admirals numeric
+@attribute adult numeric
+@attribute africa numeric
+@attribute african numeric
+@attribute against numeric
+@attribute airport numeric
+@attribute alan numeric
+@attribute alaska numeric
+@attribute alcohol numeric
+@attribute algeria numeric
+@attribute all numeric
+@attribute also numeric
+@attribute am numeric
+@attribute amazing numeric
+@attribute america numeric
+@attribute american numeric
+@attribute amitriptyline numeric
+@attribute amount numeric
+@attribute amoxicillin numeric
+@attribute amphibians numeric
+@attribute an numeric
+@attribute and numeric
+@attribute andy numeric
+@attribute angiotensin numeric
+@attribute angle numeric
+@attribute animals numeric
+@attribute annuity numeric
+@attribute another numeric
+@attribute antacids numeric
+@attribute anthony numeric
+@attribute antigen numeric
+@attribute appear numeric
+@attribute appeared numeric
+@attribute apple numeric
+@attribute arc numeric
+@attribute arch numeric
+@attribute archives numeric
+@attribute are numeric
+@attribute argentina numeric
+@attribute armed numeric
+@attribute armstrong numeric
+@attribute arrow numeric
+@attribute artery numeric
+@attribute arthritis numeric
+@attribute as numeric
+@attribute asia numeric
+@attribute aspen numeric
+@attribute astronaut numeric
+@attribute astronomic numeric
+@attribute at numeric
+@attribute atlanta numeric
+@attribute atlantic numeric
+@attribute atom numeric
+@attribute atomic numeric
+@attribute australia numeric
+@attribute autism numeric
+@attribute automobile numeric
+@attribute average numeric
+@attribute away numeric
+@attribute b numeric
+@attribute b1 numeric
+@attribute baby numeric
+@attribute backbones numeric
+@attribute backwards numeric
+@attribute baking numeric
+@attribute ball numeric
+@attribute bandwidth numeric
+@attribute bangers numeric
+@attribute barometer numeric
+@attribute baseball numeric
+@attribute baseballwinning numeric
+@attribute bats numeric
+@attribute battle numeric
+@attribute be numeric
+@attribute become numeric
+@attribute begin numeric
+@attribute being numeric
+@attribute bentonville numeric
+@attribute beta numeric
+@attribute between numeric
+@attribute beverly numeric
+@attribute big numeric
+@attribute bighorn numeric
+@attribute bill numeric
+@attribute binney numeric
+@attribute biodiversity numeric
+@attribute biosphere numeric
+@attribute bipolar numeric
+@attribute bird numeric
+@attribute birthday numeric
+@attribute birthstone numeric
+@attribute black numeric
+@attribute blind numeric
+@attribute blood numeric
+@attribute blue numeric
+@attribute body numeric
+@attribute bombed numeric
+@attribute bone numeric
+@attribute born numeric
+@attribute boston numeric
+@attribute brain numeric
+@attribute branch numeric
+@attribute braves numeric
+@attribute brazil numeric
+@attribute breed numeric
+@attribute bridge numeric
+@attribute brightest numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute brooklyn numeric
+@attribute building numeric
+@attribute bulb numeric
+@attribute bulletproof numeric
+@attribute buried numeric
+@attribute bush numeric
+@attribute buy numeric
+@attribute by numeric
+@attribute caffeine numeric
+@attribute calculator numeric
+@attribute call numeric
+@attribute called numeric
+@attribute camera numeric
+@attribute can numeric
+@attribute canada numeric
+@attribute canadian numeric
+@attribute canary numeric
+@attribute canyon numeric
+@attribute capers numeric
+@attribute capital numeric
+@attribute car numeric
+@attribute carbon numeric
+@attribute carcinogen numeric
+@attribute caribbean numeric
+@attribute carolina numeric
+@attribute carries numeric
+@attribute castle numeric
+@attribute cat numeric
+@attribute catskill numeric
+@attribute causes numeric
+@attribute cc numeric
+@attribute ceiling numeric
+@attribute cell numeric
+@attribute cells numeric
+@attribute center numeric
+@attribute century numeric
+@attribute cerebral numeric
+@attribute chain numeric
+@attribute champlain numeric
+@attribute chapel numeric
+@attribute chicago numeric
+@attribute chicken numeric
+@attribute china numeric
+@attribute chloride numeric
+@attribute chocolate numeric
+@attribute cholesterol numeric
+@attribute christopher numeric
+@attribute chunnel numeric
+@attribute ciao numeric
+@attribute cigarettes numeric
+@attribute cities numeric
+@attribute city numeric
+@attribute climate numeric
+@attribute coaster numeric
+@attribute coastline numeric
+@attribute code numeric
+@attribute cognac numeric
+@attribute cold numeric
+@attribute colonized numeric
+@attribute colony numeric
+@attribute color numeric
+@attribute colorful numeric
+@attribute colors numeric
+@attribute columbia numeric
+@attribute columbus numeric
+@attribute come numeric
+@attribute comedian numeric
+@attribute comedy numeric
+@attribute comes numeric
+@attribute committee numeric
+@attribute common numeric
+@attribute company numeric
+@attribute composed numeric
+@attribute composer numeric
+@attribute compounded numeric
+@attribute comprise numeric
+@attribute computer numeric
+@attribute congressman numeric
+@attribute contact numeric
+@attribute content numeric
+@attribute continent numeric
+@attribute conversion numeric
+@attribute convicts numeric
+@attribute copper numeric
+@attribute coral numeric
+@attribute core numeric
+@attribute country numeric
+@attribute county numeric
+@attribute course numeric
+@attribute cow numeric
+@attribute cpr numeric
+@attribute crash numeric
+@attribute crickets numeric
+@attribute criterion numeric
+@attribute cross numeric
+@attribute crown numeric
+@attribute cryogenics numeric
+@attribute cryptography numeric
+@attribute cubic numeric
+@attribute cubs numeric
+@attribute currency numeric
+@attribute d numeric
+@attribute dam numeric
+@attribute date numeric
+@attribute davis numeric
+@attribute day numeric
+@attribute de numeric
+@attribute deepest numeric
+@attribute defeated numeric
+@attribute defibrillator numeric
+@attribute denver numeric
+@attribute department numeric
+@attribute depletion numeric
+@attribute depth numeric
+@attribute derby numeric
+@attribute desktop numeric
+@attribute developed numeric
+@attribute developing numeric
+@attribute diabetes numeric
+@attribute diameter numeric
+@attribute dianetics numeric
+@attribute did numeric
+@attribute die numeric
+@attribute diecasting numeric
+@attribute died numeric
+@attribute difference numeric
+@attribute dime numeric
+@attribute dioxide numeric
+@attribute discovered numeric
+@attribute disease numeric
+@attribute disorder numeric
+@attribute distance numeric
+@attribute divine numeric
+@attribute dixon numeric
+@attribute do numeric
+@attribute dodgers numeric
+@attribute does numeric
+@attribute dog numeric
+@attribute dollar numeric
+@attribute dollars numeric
+@attribute dominoes numeric
+@attribute don numeric
+@attribute done numeric
+@attribute draft numeric
+@attribute drawer numeric
+@attribute dress numeric
+@attribute duke numeric
+@attribute during numeric
+@attribute dwight numeric
+@attribute dystrophy numeric
+@attribute earth numeric
+@attribute earthquake numeric
+@attribute earthquakes numeric
+@attribute easiest numeric
+@attribute eat numeric
+@attribute eclipse numeric
+@attribute ecoli numeric
+@attribute edward numeric
+@attribute effect numeric
+@attribute egypt numeric
+@attribute eiffel numeric
+@attribute eighth numeric
+@attribute eisenhower numeric
+@attribute elected numeric
+@attribute electrical numeric
+@attribute element numeric
+@attribute elephant numeric
+@attribute elevation numeric
+@attribute ellington numeric
+@attribute elvis numeric
+@attribute engines numeric
+@attribute enquirer numeric
+@attribute enter numeric
+@attribute enzymes numeric
+@attribute epilepsy numeric
+@attribute equity numeric
+@attribute erupt numeric
+@attribute esophagus numeric
+@attribute ethics numeric
+@attribute ethiopia numeric
+@attribute euphrates numeric
+@attribute expectancy numeric
+@attribute eye numeric
+@attribute f numeric
+@attribute fair numeric
+@attribute faithful numeric
+@attribute far numeric
+@attribute fargo numeric
+@attribute fast numeric
+@attribute father numeric
+@attribute fault numeric
+@attribute fdr numeric
+@attribute feet numeric
+@attribute female numeric
+@attribute ferry numeric
+@attribute fiber numeric
+@attribute fibromyalgia numeric
+@attribute fibrosis numeric
+@attribute field numeric
+@attribute fields numeric
+@attribute find numeric
+@attribute first numeric
+@attribute flag numeric
+@attribute flags numeric
+@attribute flew numeric
+@attribute flight numeric
+@attribute flower numeric
+@attribute flows numeric
+@attribute fluorescent numeric
+@attribute fly numeric
+@attribute fm numeric
+@attribute food numeric
+@attribute foot numeric
+@attribute football numeric
+@attribute for numeric
+@attribute forces numeric
+@attribute foreclosure numeric
+@attribute forest numeric
+@attribute form numeric
+@attribute fortnight numeric
+@attribute forwards numeric
+@attribute founded numeric
+@attribute fourth numeric
+@attribute francisco numeric
+@attribute free numeric
+@attribute french numeric
+@attribute frequently numeric
+@attribute frog numeric
+@attribute frogs numeric
+@attribute from numeric
+@attribute fruit numeric
+@attribute fuel numeric
+@attribute fungus numeric
+@attribute galaxy numeric
+@attribute galileo numeric
+@attribute gallon numeric
+@attribute gallons numeric
+@attribute gas numeric
+@attribute gasses numeric
+@attribute gateway numeric
+@attribute gave numeric
+@attribute genocide numeric
+@attribute geographic numeric
+@attribute george numeric
+@attribute georgia numeric
+@attribute german numeric
+@attribute gestation numeric
+@attribute get numeric
+@attribute giraffe numeric
+@attribute given numeric
+@attribute glenn numeric
+@attribute glycol numeric
+@attribute go numeric
+@attribute gold numeric
+@attribute golf numeric
+@attribute governor numeric
+@attribute grace numeric
+@attribute grand numeric
+@attribute grant numeric
+@attribute gras numeric
+@attribute gray numeric
+@attribute great numeric
+@attribute griffith numeric
+@attribute group numeric
+@attribute gypsy numeric
+@attribute had numeric
+@attribute hair numeric
+@attribute halfway numeric
+@attribute harper numeric
+@attribute has numeric
+@attribute have numeric
+@attribute hawaii numeric
+@attribute he numeric
+@attribute head numeric
+@attribute headquartered numeric
+@attribute heart numeric
+@attribute hearts numeric
+@attribute heaviest numeric
+@attribute helpful numeric
+@attribute helps numeric
+@attribute hemisphere numeric
+@attribute her numeric
+@attribute high numeric
+@attribute highest numeric
+@attribute hillbillies numeric
+@attribute hindenberg numeric
+@attribute hiroshima numeric
+@attribute his numeric
+@attribute historic numeric
+@attribute hitler numeric
+@attribute holland numeric
+@attribute home numeric
+@attribute hoop numeric
+@attribute horses numeric
+@attribute house numeric
+@attribute houses numeric
+@attribute how numeric
+@attribute howard numeric
+@attribute hughes numeric
+@attribute hula numeric
+@attribute human numeric
+@attribute humidity numeric
+@attribute hummingbirds numeric
+@attribute hunting numeric
+@attribute hurricane numeric
+@attribute hybridization numeric
+@attribute hymn numeric
+@attribute hypertension numeric
+@attribute iceland numeric
+@attribute idaho numeric
+@attribute illinois numeric
+@attribute imaginary numeric
+@attribute in numeric
+@attribute inauguration numeric
+@attribute independence numeric
+@attribute indigo numeric
+@attribute influenza numeric
+@attribute ingredient numeric
+@attribute instant numeric
+@attribute instrument numeric
+@attribute interest numeric
+@attribute into numeric
+@attribute invent numeric
+@attribute invented numeric
+@attribute invertebrates numeric
+@attribute ireland numeric
+@attribute is numeric
+@attribute isdn numeric
+@attribute island numeric
+@attribute islands numeric
+@attribute issued numeric
+@attribute it numeric
+@attribute italy numeric
+@attribute its numeric
+@attribute iv numeric
+@attribute jackson numeric
+@attribute janice numeric
+@attribute japan numeric
+@attribute jefferson numeric
+@attribute jesse numeric
+@attribute jewels numeric
+@attribute jfk numeric
+@attribute joan numeric
+@attribute john numeric
+@attribute johnson numeric
+@attribute join numeric
+@attribute joplin numeric
+@attribute journey numeric
+@attribute june numeric
+@attribute kangaroo numeric
+@attribute kappa numeric
+@attribute kennedy numeric
+@attribute kentucky numeric
+@attribute kept numeric
+@attribute kidney numeric
+@attribute killed numeric
+@attribute kind numeric
+@attribute known numeric
+@attribute korean numeric
+@attribute labrador numeric
+@attribute ladybug numeric
+@attribute lake numeric
+@attribute lakes numeric
+@attribute land numeric
+@attribute language numeric
+@attribute largest numeric
+@attribute last numeric
+@attribute late numeric
+@attribute laughin numeric
+@attribute leader numeric
+@attribute league numeric
+@attribute least numeric
+@attribute led numeric
+@attribute legally numeric
+@attribute legislative numeric
+@attribute length numeric
+@attribute lennon numeric
+@attribute leon numeric
+@attribute leukemia numeric
+@attribute liberty numeric
+@attribute life numeric
+@attribute light numeric
+@attribute lights numeric
+@attribute lincoln numeric
+@attribute lindbergh numeric
+@attribute line numeric
+@attribute linen numeric
+@attribute lion numeric
+@attribute lisa numeric
+@attribute literature numeric
+@attribute liters numeric
+@attribute litmus numeric
+@attribute little numeric
+@attribute live numeric
+@attribute lived numeric
+@attribute liver numeric
+@attribute loa numeric
+@attribute located numeric
+@attribute location numeric
+@attribute long numeric
+@attribute longest numeric
+@attribute louis numeric
+@attribute louisiana numeric
+@attribute lourve numeric
+@attribute love numeric
+@attribute lower numeric
+@attribute lungs numeric
+@attribute luxembourg numeric
+@attribute lyndon numeric
+@attribute macintosh numeric
+@attribute mad numeric
+@attribute made numeric
+@attribute madrid numeric
+@attribute magnetic numeric
+@attribute maine numeric
+@attribute major numeric
+@attribute make numeric
+@attribute mall numeric
+@attribute man numeric
+@attribute many numeric
+@attribute map numeric
+@attribute mardi numeric
+@attribute maryland numeric
+@attribute mash numeric
+@attribute mason numeric
+@attribute material numeric
+@attribute mauna numeric
+@attribute mean numeric
+@attribute measure numeric
+@attribute melba numeric
+@attribute melting numeric
+@attribute mercury numeric
+@attribute metabolism numeric
+@attribute metal numeric
+@attribute meteorologists numeric
+@attribute mexican numeric
+@attribute mexico numeric
+@attribute michigan numeric
+@attribute micron numeric
+@attribute milan numeric
+@attribute mile numeric
+@attribute miles numeric
+@attribute milk numeric
+@attribute milky numeric
+@attribute miller numeric
+@attribute milwaukee numeric
+@attribute mineral numeric
+@attribute minister numeric
+@attribute minnesota numeric
+@attribute mirror numeric
+@attribute mix numeric
+@attribute mixed numeric
+@attribute modesto numeric
+@attribute mold numeric
+@attribute mona numeric
+@attribute monastery numeric
+@attribute money numeric
+@attribute mongolia numeric
+@attribute mons numeric
+@attribute month numeric
+@attribute montreal numeric
+@attribute moon numeric
+@attribute mortarboard numeric
+@attribute most numeric
+@attribute motto numeric
+@attribute moulin numeric
+@attribute mountain numeric
+@attribute mountains numeric
+@attribute mouth numeric
+@attribute movie numeric
+@attribute mozart numeric
+@attribute ms numeric
+@attribute much numeric
+@attribute muddy numeric
+@attribute murder numeric
+@attribute muscular numeric
+@attribute museum numeric
+@attribute music numeric
+@attribute mussolini numeric
+@attribute myopia numeric
+@attribute name numeric
+@attribute nanotechnology numeric
+@attribute naproxen numeric
+@attribute nasa numeric
+@attribute national numeric
+@attribute nations numeric
+@attribute natural numeric
+@attribute naturally numeric
+@attribute nautical numeric
+@attribute navy numeric
+@attribute near numeric
+@attribute need numeric
+@attribute neil numeric
+@attribute nepotism numeric
+@attribute net numeric
+@attribute netherlands numeric
+@attribute neurology numeric
+@attribute neuropathy numeric
+@attribute neuschwanstein numeric
+@attribute new numeric
+@attribute newborn numeric
+@attribute newspaper numeric
+@attribute nfl numeric
+@attribute nickname numeric
+@attribute nicotine numeric
+@attribute nigeria numeric
+@attribute nile numeric
+@attribute nobel numeric
+@attribute nonconsecutive numeric
+@attribute north numeric
+@attribute northern numeric
+@attribute nuclear numeric
+@attribute numbers numeric
+@attribute obtuse numeric
+@attribute occur numeric
+@attribute occurring numeric
+@attribute ocean numeric
+@attribute october numeric
+@attribute octopus numeric
+@attribute of numeric
+@attribute official numeric
+@attribute often numeric
+@attribute ohio numeric
+@attribute oklahoma numeric
+@attribute old numeric
+@attribute oldest numeric
+@attribute olympus numeric
+@attribute on numeric
+@attribute only numeric
+@attribute opened numeric
+@attribute or numeric
+@attribute orange numeric
+@attribute order numeric
+@attribute organize numeric
+@attribute orinoco numeric
+@attribute osteoporosis numeric
+@attribute out numeric
+@attribute outdated numeric
+@attribute output numeric
+@attribute own numeric
+@attribute oxygen numeric
+@attribute oz numeric
+@attribute ozone numeric
+@attribute pacific numeric
+@attribute painted numeric
+@attribute palsy numeric
+@attribute panic numeric
+@attribute paper numeric
+@attribute parasite numeric
+@attribute park numeric
+@attribute parks numeric
+@attribute part numeric
+@attribute party numeric
+@attribute pastrami numeric
+@attribute pathogens numeric
+@attribute patrick numeric
+@attribute pay numeric
+@attribute pectin numeric
+@attribute pediatricians numeric
+@attribute peninsula numeric
+@attribute penn numeric
+@attribute per numeric
+@attribute percentage numeric
+@attribute period numeric
+@attribute persia numeric
+@attribute person numeric
+@attribute perth numeric
+@attribute pesos numeric
+@attribute peyote numeric
+@attribute ph numeric
+@attribute phenylalanine numeric
+@attribute phi numeric
+@attribute philippines numeric
+@attribute philosopher numeric
+@attribute phoenix numeric
+@attribute phosphorus numeric
+@attribute pilates numeric
+@attribute pink numeric
+@attribute place numeric
+@attribute plane numeric
+@attribute planet numeric
+@attribute planets numeric
+@attribute plant numeric
+@attribute plastic numeric
+@attribute platelets numeric
+@attribute play numeric
+@attribute pluto numeric
+@attribute pneumonia numeric
+@attribute point numeric
+@attribute points numeric
+@attribute poison numeric
+@attribute poland numeric
+@attribute polaroid numeric
+@attribute pole numeric
+@attribute poles numeric
+@attribute polio numeric
+@attribute poliomyelitis numeric
+@attribute pollution numeric
+@attribute polymer numeric
+@attribute polymers numeric
+@attribute ponce numeric
+@attribute popular numeric
+@attribute populate numeric
+@attribute population numeric
+@attribute position numeric
+@attribute pounds numeric
+@attribute power numeric
+@attribute precious numeric
+@attribute pregnant numeric
+@attribute president numeric
+@attribute presley numeric
+@attribute prevent numeric
+@attribute primary numeric
+@attribute prime numeric
+@attribute prince numeric
+@attribute prism numeric
+@attribute prize numeric
+@attribute produced numeric
+@attribute professional numeric
+@attribute program numeric
+@attribute proper numeric
+@attribute propylene numeric
+@attribute province numeric
+@attribute publishing numeric
+@attribute pulmonary numeric
+@attribute purchased numeric
+@attribute pure numeric
+@attribute pursuit numeric
+@attribute quaaludes numeric
+@attribute quicksilver numeric
+@attribute radio numeric
+@attribute radium numeric
+@attribute raid numeric
+@attribute raided numeric
+@attribute rain numeric
+@attribute rainiest numeric
+@attribute range numeric
+@attribute rate numeric
+@attribute reach numeric
+@attribute real numeric
+@attribute red numeric
+@attribute reefs numeric
+@attribute reform numeric
+@attribute refrigerator numeric
+@attribute relative numeric
+@attribute remove numeric
+@attribute rent numeric
+@attribute representative numeric
+@attribute rheumatoid numeric
+@attribute ride numeric
+@attribute rip numeric
+@attribute river numeric
+@attribute rocky numeric
+@attribute roger numeric
+@attribute role numeric
+@attribute roller numeric
+@attribute rosa numeric
+@attribute rouge numeric
+@attribute rowe numeric
+@attribute roy numeric
+@attribute ruler numeric
+@attribute runs numeric
+@attribute s numeric
+@attribute sales numeric
+@attribute same numeric
+@attribute san numeric
+@attribute satellite numeric
+@attribute sauce numeric
+@attribute savannah numeric
+@attribute scale numeric
+@attribute schizophrenia numeric
+@attribute scientific numeric
+@attribute sea numeric
+@attribute seaport numeric
+@attribute sears numeric
+@attribute season numeric
+@attribute seattle numeric
+@attribute seize numeric
+@attribute semiconductors numeric
+@attribute semolina numeric
+@attribute sent numeric
+@attribute separates numeric
+@attribute series numeric
+@attribute serve numeric
+@attribute service numeric
+@attribute severance numeric
+@attribute shakespeare numeric
+@attribute shaman numeric
+@attribute shawnee numeric
+@attribute she numeric
+@attribute shepard numeric
+@attribute ship numeric
+@attribute ships numeric
+@attribute shiva numeric
+@attribute shot numeric
+@attribute should numeric
+@attribute show numeric
+@attribute side numeric
+@attribute signature numeric
+@attribute silver numeric
+@attribute sink numeric
+@attribute sistine numeric
+@attribute sitting numeric
+@attribute sleep numeric
+@attribute slinky numeric
+@attribute small numeric
+@attribute smallest numeric
+@attribute smith numeric
+@attribute snails numeric
+@attribute soda numeric
+@attribute sodium numeric
+@attribute solar numeric
+@attribute solo numeric
+@attribute solstice numeric
+@attribute sonar numeric
+@attribute sos numeric
+@attribute sound numeric
+@attribute source numeric
+@attribute south numeric
+@attribute soviet numeric
+@attribute space numeric
+@attribute spacecraft numeric
+@attribute spain numeric
+@attribute span numeric
+@attribute speed numeric
+@attribute spelled numeric
+@attribute spider numeric
+@attribute spirometer numeric
+@attribute spleen numeric
+@attribute spoken numeric
+@attribute sport numeric
+@attribute spots numeric
+@attribute st numeric
+@attribute stamp numeric
+@attribute stand numeric
+@attribute star numeric
+@attribute start numeric
+@attribute state numeric
+@attribute states numeric
+@attribute stations numeric
+@attribute statue numeric
+@attribute stimulant numeric
+@attribute stone numeric
+@attribute store numeric
+@attribute story numeric
+@attribute strait numeric
+@attribute streak numeric
+@attribute street numeric
+@attribute strep numeric
+@attribute stretches numeric
+@attribute strike numeric
+@attribute strong numeric
+@attribute strongest numeric
+@attribute structure numeric
+@attribute summer numeric
+@attribute sun numeric
+@attribute sunspots numeric
+@attribute supernova numeric
+@attribute surface numeric
+@attribute susan numeric
+@attribute suspension numeric
+@attribute t numeric
+@attribute take numeric
+@attribute talk numeric
+@attribute tall numeric
+@attribute tallest numeric
+@attribute target numeric
+@attribute tax numeric
+@attribute tea numeric
+@attribute team numeric
+@attribute technical numeric
+@attribute teflon numeric
+@attribute telephone numeric
+@attribute temperature numeric
+@attribute tennis numeric
+@attribute term numeric
+@attribute terms numeric
+@attribute territories numeric
+@attribute test numeric
+@attribute texas numeric
+@attribute that numeric
+@attribute the numeric
+@attribute their numeric
+@attribute there numeric
+@attribute thermometer numeric
+@attribute they numeric
+@attribute thomas numeric
+@attribute three numeric
+@attribute throat numeric
+@attribute through numeric
+@attribute thunderstorms numeric
+@attribute thyroid numeric
+@attribute ticket numeric
+@attribute tiger numeric
+@attribute titanic numeric
+@attribute tmj numeric
+@attribute to numeric
+@attribute ton numeric
+@attribute tongue numeric
+@attribute toto numeric
+@attribute tower numeric
+@attribute towers numeric
+@attribute toy numeric
+@attribute traditional numeric
+@attribute tranquility numeric
+@attribute transplant numeric
+@attribute treasury numeric
+@attribute triglycerides numeric
+@attribute trivial numeric
+@attribute troposphere numeric
+@attribute tsunami numeric
+@attribute tunnel numeric
+@attribute turkey numeric
+@attribute turkeys numeric
+@attribute turn numeric
+@attribute turquoise numeric
+@attribute tv numeric
+@attribute twin numeric
+@attribute twins numeric
+@attribute two numeric
+@attribute type numeric
+@attribute types numeric
+@attribute ulcer numeric
+@attribute ulysses numeric
+@attribute uniform numeric
+@attribute union numeric
+@attribute united numeric
+@attribute university numeric
+@attribute unmarried numeric
+@attribute ursa numeric
+@attribute us numeric
+@attribute usa numeric
+@attribute use numeric
+@attribute used numeric
+@attribute usps numeric
+@attribute utah numeric
+@attribute vaccination numeric
+@attribute valentine numeric
+@attribute van numeric
+@attribute veins numeric
+@attribute venezuela numeric
+@attribute vertigo numeric
+@attribute vests numeric
+@attribute vice numeric
+@attribute vietnam numeric
+@attribute vikings numeric
+@attribute viscosity numeric
+@attribute vitamin numeric
+@attribute volcano numeric
+@attribute volcanoes numeric
+@attribute walk numeric
+@attribute wallpaper numeric
+@attribute walmart numeric
+@attribute walrus numeric
+@attribute war numeric
+@attribute was numeric
+@attribute water numeric
+@attribute waterloo numeric
+@attribute way numeric
+@attribute wayne numeric
+@attribute wc numeric
+@attribute we numeric
+@attribute weigh numeric
+@attribute weight numeric
+@attribute were numeric
+@attribute west numeric
+@attribute what numeric
+@attribute when numeric
+@attribute where numeric
+@attribute which numeric
+@attribute white numeric
+@attribute who numeric
+@attribute why numeric
+@attribute wide numeric
+@attribute width numeric
+@attribute wife numeric
+@attribute william numeric
+@attribute willie numeric
+@attribute wimbledon numeric
+@attribute win numeric
+@attribute wind numeric
+@attribute windsor numeric
+@attribute winkle numeric
+@attribute with numeric
+@attribute wizard numeric
+@attribute woman numeric
+@attribute won numeric
+@attribute word numeric
+@attribute world numeric
+@attribute worn numeric
+@attribute worth numeric
+@attribute would numeric
+@attribute wrote numeric
+@attribute wwii numeric
+@attribute xerophytes numeric
+@attribute xrays numeric
+@attribute yak numeric
+@attribute year numeric
+@attribute yellow numeric
+@attribute yellowstone numeric
+@attribute york numeric
+@attribute you numeric
+@attribute youngest numeric
+@attribute your numeric
+@attribute yugoslavia numeric
+@attribute zambia numeric
+@attribute zero numeric
+@attribute zimbabwe numeric
+@attribute zinc numeric
+@attribute zip numeric
+
+@data
+{0 ?,77 1,250 1,326 1,369 1,436 1,466 1,471 1,936 1}
+{0 ?,227 1,466 1,592 1,1006 1}
+{0 ?,374 1,995 1,1011 1}
+{0 ?,51 1,83 1,466 1,1006 1}
+{0 ?,15 1,105 1,261 1,411 1,877 1,1007 1}
+{0 ?,141 1,436 1,466 1,814 1,904 1,921 1}
+{0 ?,15 1,100 1,145 1,383 1,452 1,460 1,765 1,845 1,909 1,1009 1}
+{0 ?,85 1,346 1,466 1,624 1,802 1,1006 1}
+{0 ?,276 1,601 1,671 1,921 1,954 1,1012 1}
+{0 ?,86 1,466 1,1006 1}
+{0 ?,3 1,15 1,191 1,324 1,405 1,452 1,1006 1,1028 1}
+{0 ?,15 1,266 1,413 1,466 1,667 1,705 1,802 1,1006 1}
+{0 ?,15 1,88 1,466 1,499 1,659 1,921 1,1003 1,1006 1,1038 1}
+{0 ?,26 1,341 1,349 1,558 1,656 1,683 1,921 1,936 1,995 1,1011 1}
+{0 ?,15 1,105 1,261 1,449 1,877 1,1007 1}
+{0 ?,232 1,321 1,354 1,466 1,520 1,921 1,1006 1}
+{0 ?,409 1,423 1,570 1,573 1,728 1,921 1,1006 1}
+{0 ?,35 1,256 1,735 1,921 1,976 1,1011 1}
+{0 ?,314 1,466 1,1006 1}
+{0 ?,261 1,840 1,921 1,934 1,1006 1,1037 1}
+{0 ?,46 1,341 1,452 1,860 1,921 1,936 1,990 1,995 1,1011 1}
+{0 ?,15 1,117 1,466 1,1006 1}
+{0 ?,75 1,112 1,452 1,466 1,497 1,613 1,791 1,921 1,970 1,1006 1}
+{0 ?,118 1,270 1,466 1,1006 1}
+{0 ?,185 1,466 1,1006 1}
+{0 ?,216 1,256 1,549 1,921 1,1011 1}
+{0 ?,148 1,466 1,1006 1}
+{0 ?,52 1,110 1,407 1,451 1,466 1,525 1,649 1,734 1,858 1,921 1,1006 1}
+{0 ?,36 1,466 1,483 1,999 1,1008 1}
+{0 ?,420 1,452 1,466 1,712 1,921 1,1006 1}
+{0 ?,80 1,88 1,254 1,433 1,466 1,492 1,659 1,864 1,921 1,1006 1}
+{0 ?,68 1,607 1,792 1,921 1,1008 1}
+{0 ?,68 1,464 1,1006 1}
+{0 ?,80 1,174 1,290 1,466 1,659 1,913 1,921 1,1006 1}
+{0 ?,75 1,261 1,303 1,323 1,387 1,483 1,491 1,749 1,1007 1}
+{0 ?,264 1,309 1,412 1,436 1,664 1,750 1,995 1,1007 1}
+{0 ?,466 1,674 1,791 1,921 1,1008 1}
+{0 ?,326 1,369 1,436 1,452 1,466 1,525 1,634 1,824 1,914 1,921 1}
+{0 ?,245 1,335 1,410 1,436 1,612 1,701 1,835 1,1041 1}
+{0 ?,68 1,401 1,436 1,502 1,559 1,923 1}
+{0 ?,151 1,369 1,466 1,526 1,551 1,565 1,722 1,1006 1}
+{0 ?,466 1,911 1,1006 1}
+{0 ?,47 1,466 1,1006 1}
+{0 ?,15 1,466 1,827 1,1006 1}
+{0 ?,15 1,333 1,354 1,466 1,620 1,760 1,921 1,993 1,1006 1}
+{0 ?,15 1,151 1,403 1,466 1,659 1,953 1,1006 1}
+{0 ?,261 1,436 1,539 1,790 1,843 1,978 1,1022 1}
+{0 ?,68 1,947 1,1006 1}
+{0 ?,15 1,375 1,436 1,452 1,530 1,559 1}
+{0 ?,184 1,211 1,363 1,452 1,466 1,620 1,659 1,805 1,921 1,1006 1}
+{0 ?,50 1,68 1,1006 1}
+{0 ?,268 1,1011 1,1035 1}
+{0 ?,153 1,206 1,466 1,525 1,802 1,838 1,903 1,1001 1,1009 1}
+{0 ?,336 1,466 1,1006 1}
+{0 ?,282 1,343 1,466 1,670 1,677 1,1006 1,1023 1,1029 1}
+{0 ?,170 1,276 1,310 1,452 1,567 1,1006 1}
+{0 ?,261 1,262 1,309 1,750 1,1007 1}
+{0 ?,159 1,466 1,659 1,921 1,1006 1,1044 1}
+{0 ?,466 1,579 1,1008 1}
+{0 ?,349 1,442 1,466 1,864 1,921 1,1006 1}
+{0 ?,191 1,452 1,466 1,665 1,878 1,921 1,966 1,1006 1}
+{0 ?,339 1,620 1,779 1,995 1,1000 1,1006 1}
+{0 ?,110 1,327 1,347 1,791 1,1006 1}
+{0 ?,102 1,274 1,294 1,1006 1}
+{0 ?,103 1,113 1,261 1,452 1,659 1,718 1,877 1,902 1,921 1,1006 1}
+{0 ?,20 1,523 1,995 1,1011 1}
+{0 ?,15 1,150 1,274 1,489 1,640 1,1006 1,1041 1}
+{0 ?,68 1,866 1,979 1,1006 1}
+{0 ?,52 1,245 1,261 1,262 1,483 1,516 1,599 1,1006 1}
+{0 ?,45 1,76 1,369 1,649 1,821 1,885 1,1006 1}
+{0 ?,466 1,659 1,743 1,816 1,921 1,1006 1}
+{0 ?,15 1,354 1,436 1,612 1,921 1,932 1,934 1,995 1}
+{0 ?,191 1,452 1,466 1,505 1,921 1,1006 1,1028 1}
+{0 ?,46 1,213 1,354 1,617 1,837 1,884 1,921 1,1005 1,1006 1,1032 1}
+{0 ?,45 1,466 1,557 1,659 1,921 1,1008 1}
+{0 ?,466 1,709 1,809 1,921 1,1006 1}
+{0 ?,85 1,240 1,452 1,466 1,659 1,960 1,973 1,1006 1}
+{0 ?,66 1,379 1,436 1,452 1,466 1,541 1,872 1,904 1,921 1}
+{0 ?,32 1,131 1,276 1,333 1,436 1,440 1,612 1,921 1,1002 1}
+{0 ?,38 1,341 1,395 1,659 1,921 1,995 1,1011 1}
+{0 ?,15 1,466 1,755 1,1006 1}
+{0 ?,341 1,535 1,921 1,945 1,995 1,1007 1}
+{0 ?,9 1,33 1,303 1,452 1,659 1,749 1,858 1,995 1,1011 1}
+{0 ?,182 1,466 1,659 1,743 1,921 1,1006 1}
+{0 ?,129 1,690 1,796 1,995 1,1007 1}
+{0 ?,15 1,418 1,466 1,500 1,1012 1}
+{0 ?,49 1,466 1,1006 1}
+{0 ?,333 1,341 1,787 1,878 1,921 1,966 1,995 1,1011 1}
+{0 ?,68 1,1006 1,1034 1}
+{0 ?,205 1,226 1,246 1,261 1,369 1,517 1,740 1,1006 1}
+{0 ?,240 1,251 1,287 1,341 1,354 1,470 1,659 1,687 1,921 1,946 1,970 1,994 1,1009 1}
+{0 ?,255 1,466 1,763 1,1006 1}
+{0 ?,466 1,659 1,802 1,895 1,898 1,913 1,921 1,1006 1}
+{0 ?,154 1,261 1,485 1,625 1,921 1,966 1,1006 1,1037 1}
+{0 ?,452 1,466 1,665 1,921 1,967 1,970 1,1006 1}
+{0 ?,297 1,466 1,468 1,754 1,1008 1}
+{0 ?,571 1}
+{0 ?,236 1,466 1,1006 1}
+{0 ?,68 1,224 1,781 1,1006 1}
+{0 ?,101 1,466 1,510 1,540 1,555 1,886 1,921 1,1006 1}
+{0 ?,466 1,636 1,1006 1}
+{0 ?,149 1,463 1,921 1,1011 1}
+{0 ?,274 1,292 1,436 1,568 1,1041 1}
+{0 ?,286 1,308 1,466 1,1011 1}
+{0 ?,227 1,466 1,714 1,1006 1}
+{0 ?,15 1,466 1,578 1,1006 1}
+{0 ?,225 1,802 1,895 1,921 1}
+{0 ?,119 1,466 1,662 1,877 1,921 1,1006 1}
+{0 ?,129 1,802 1,826 1,958 1,1004 1,1007 1,1016 1}
+{0 ?,242 1,423 1,452 1,466 1,921 1,970 1,1006 1}
+{0 ?,15 1,72 1,200 1,367 1,466 1,730 1,1006 1}
+{0 ?,29 1,466 1,1006 1}
+{0 ?,38 1,194 1,466 1,515 1,659 1,877 1,921 1,1006 1}
+{0 ?,71 1,466 1,620 1,632 1,659 1,802 1,921 1,1006 1,1015 1}
+{0 ?,346 1,411 1,466 1,802 1,877 1,1006 1}
+{0 ?,8 1,46 1,452 1,611 1,1011 1,1026 1}
+{0 ?,231 1,261 1,425 1,921 1,1007 1}
+{0 ?,419 1,586 1,675 1,751 1,1006 1}
+{0 ?,180 1,239 1,506 1,822 1,920 1,921 1,995 1,1006 1,1026 1,1028 1,1037 1}
+{0 ?,466 1,706 1,1008 1}
+{0 ?,106 1,261 1,1006 1,1033 1,1037 1}
+{0 ?,15 1,96 1,259 1,394 1,466 1,659 1,921 1,1006 1}
+{0 ?,51 1,295 1,466 1,1006 1}
+{0 ?,45 1,268 1,1011 1}
+{0 ?,259 1,290 1,466 1,802 1,921 1,1006 1}
+{0 ?,749 1,968 1,995 1,1009 1}
+{0 ?,373 1,436 1,466 1,583 1,921 1,998 1,1013 1}
+{0 ?,274 1,287 1,603 1,654 1,815 1,930 1,1009 1}
+{0 ?,466 1,1006 1,1018 1}
+{0 ?,15 1,167 1,354 1,386 1,466 1,703 1,921 1,1006 1}
+{0 ?,15 1,326 1,436 1,466 1,580 1,628 1}
+{0 ?,2 1,18 1,334 1,408 1,452 1,512 1,667 1,772 1,802 1,921 1,995 1,1011 1}
+{0 ?,276 1,415 1,567 1,777 1,906 1,1006 1}
+{0 ?,341 1,392 1,461 1,806 1,860 1,921 1,936 1,995 1,1006 1}
+{0 ?,356 1,466 1,1006 1}
+{0 ?,330 1,466 1,492 1,525 1,555 1,630 1,921 1,1006 1}
+{0 ?,430 1,466 1,921 1,951 1,1008 1}
+{0 ?,44 1,396 1,446 1,921 1,1011 1,1032 1}
+{0 ?,100 1,244 1,261 1,452 1,725 1,744 1,1006 1,1017 1}
+{0 ?,68 1,724 1,1006 1}
+{0 ?,466 1,696 1,825 1,1006 1}
+{0 ?,277 1,466 1,620 1,659 1,793 1,799 1,802 1,921 1,1006 1}
+{0 ?,67 1,68 1,624 1,921 1,1008 1}
+{0 ?,15 1,92 1,151 1,466 1,952 1,1006 1}
+{0 ?,466 1,736 1,1006 1}
+{0 ?,126 1,128 1,440 1,452 1,466 1,540 1,921 1,1006 1}
+{0 ?,15 1,385 1,466 1,713 1,1011 1}
+{0 ?,186 1,204 1,832 1,927 1,1004 1,1006 1}
+{0 ?,109 1,276 1,490 1,567 1,711 1,1006 1}
+{0 ?,466 1,644 1,1006 1}
+{0 ?,58 1,91 1,354 1,466 1,620 1,987 1,1006 1}
+{0 ?,268 1,771 1,1011 1}
+{0 ?,68 1,896 1,1006 1}
+{0 ?,40 1,198 1,995 1,1007 1}
+{0 ?,100 1,341 1,556 1,652 1,659 1,691 1,909 1,921 1,922 1,936 1,964 1,995 1,1006 1}
+{0 ?,220 1,299 1,466 1,667 1,1006 1}
+{0 ?,159 1,466 1,597 1,659 1,921 1,1006 1}
+{0 ?,466 1,621 1,1006 1}
+{0 ?,1 1,139 1,199 1,222 1,452 1,507 1,742 1,802 1,921 1,936 1,973 1,1004 1,1009 1}
+{0 ?,14 1,174 1,382 1,466 1,545 1,659 1,877 1,878 1,921 1,1006 1}
+{0 ?,51 1,55 1,466 1,653 1,1006 1}
+{0 ?,68 1,739 1,1006 1}
+{0 ?,163 1,444 1,452 1,466 1,815 1,921 1,1007 1}
+{0 ?,466 1,536 1,566 1,921 1,988 1,1008 1}
+{0 ?,58 1,79 1,354 1,466 1,522 1,650 1,915 1,921 1,1006 1}
+{0 ?,466 1,659 1,691 1,699 1,862 1,1006 1}
+{0 ?,90 1,129 1,484 1,548 1,995 1,1007 1}
+{0 ?,22 1,466 1,1006 1}
+{0 ?,48 1,409 1,511 1,659 1,701 1,774 1,877 1,921 1,1006 1,1037 1}
+{0 ?,46 1,234 1,361 1,780 1,1011 1}
+{0 ?,81 1,105 1,133 1,261 1,585 1,921 1,1006 1,1037 1}
+{0 ?,21 1,39 1,328 1,436 1,466 1}
+{0 ?,466 1,853 1,894 1,921 1,1007 1}
+{0 ?,466 1,897 1,1006 1}
+{0 ?,357 1,466 1,624 1,828 1,921 1,1008 1}
+{0 ?,262 1,364 1,466 1,533 1,604 1,670 1,802 1,877 1,970 1,1006 1}
+{0 ?,466 1,543 1,921 1,1008 1}
+{0 ?,341 1,470 1,873 1,921 1,995 1,1007 1}
+{0 ?,202 1,274 1,556 1,590 1,671 1,752 1,936 1,1006 1,1041 1}
+{0 ?,326 1,369 1,436 1,466 1,726 1,895 1,921 1}
+{0 ?,68 1,126 1,156 1,452 1,469 1,659 1,921 1,996 1,1006 1}
+{0 ?,466 1,637 1,1006 1}
+{0 ?,320 1,466 1,791 1,921 1,1008 1}
+{0 ?,237 1,466 1,1006 1}
+{0 ?,212 1,377 1,466 1,626 1,659 1,1006 1}
+{0 ?,154 1,466 1,587 1,659 1,753 1,921 1,1011 1}
+{0 ?,80 1,103 1,248 1,365 1,659 1,800 1,921 1,995 1,997 1,1006 1}
+{0 ?,466 1,518 1,1006 1}
+{0 ?,261 1,262 1,437 1,438 1,1008 1}
+{0 ?,121 1,354 1,466 1,488 1,921 1,1006 1}
+{0 ?,452 1,466 1,588 1,803 1,907 1,921 1,1006 1}
+{0 ?,271 1,290 1,369 1,452 1,466 1,581 1,895 1,921 1,936 1,1006 1}
+{0 ?,15 1,88 1,181 1,354 1,466 1,520 1,863 1,921 1,1006 1}
+{0 ?,341 1,669 1,883 1,921 1,992 1,995 1,1007 1}
+{0 ?,441 1,466 1,784 1,1006 1}
+{0 ?,13 1,191 1,195 1,409 1,659 1,921 1,1006 1,1049 1}
+{0 ?,40 1,240 1,452 1,466 1,973 1,1006 1}
+{0 ?,432 1,439 1,463 1,921 1,1011 1}
+{0 ?,6 1,452 1,603 1,741 1,921 1,942 1,995 1,1006 1}
+{0 ?,466 1,551 1,659 1,693 1,1006 1}
+{0 ?,6 1,452 1,461 1,466 1,620 1,659 1,806 1,820 1,859 1,860 1,920 1,921 1,965 1,1006 1}
+{0 ?,151 1,191 1,311 1,466 1,641 1,802 1,921 1,1006 1}
+{0 ?,463 1,844 1,921 1,1011 1}
+{0 ?,56 1,68 1,93 1,151 1,281 1,410 1,901 1,920 1,921 1,1006 1}
+{0 ?,223 1,466 1,570 1,659 1,728 1,921 1,1006 1}
+{0 ?,466 1,537 1,598 1,666 1,921 1,988 1,1008 1}
+{0 ?,12 1,659 1,749 1,878 1,921 1,966 1,995 1,1011 1}
+{0 ?,88 1,126 1,466 1,913 1,921 1,1006 1}
+{0 ?,15 1,249 1,274 1,276 1,1006 1}
+{0 ?,24 1,298 1,466 1,659 1,774 1,921 1,1006 1}
+{0 ?,17 1,261 1,283 1,878 1,921 1,966 1,1006 1,1037 1}
+{0 ?,328 1,436 1,466 1,521 1,659 1,864 1,921 1}
+{0 ?,452 1,466 1,600 1,762 1,1006 1}
+{0 ?,42 1,75 1,191 1,466 1,497 1,639 1,893 1,921 1,941 1,957 1,1006 1,1040 1}
+{0 ?,372 1,466 1,1006 1}
+{0 ?,366 1,452 1,466 1,504 1,603 1,635 1,869 1,921 1,1006 1}
+{0 ?,183 1,466 1,850 1,1006 1}
+{0 ?,68 1,151 1,280 1,667 1,871 1,921 1,1006 1}
+{0 ?,15 1,436 1,452 1,559 1,745 1,937 1}
+{0 ?,456 1,466 1,1006 1}
+{0 ?,252 1,466 1,682 1,1006 1}
+{0 ?,528 1,594 1,684 1,921 1,995 1,1006 1,1037 1}
+{0 ?,276 1,567 1,833 1,842 1,1006 1}
+{0 ?,304 1,452 1,466 1,552 1,678 1,921 1,1006 1}
+{0 ?,45 1,369 1,384 1,452 1,554 1,606 1,649 1,776 1,889 1,936 1,1009 1}
+{0 ?,466 1,551 1,659 1,723 1,1006 1}
+{0 ?,466 1,645 1,659 1,743 1,921 1,1006 1}
+{0 ?,274 1,276 1,868 1,1006 1,1043 1}
+{0 ?,157 1,397 1,466 1,921 1,1008 1}
+{0 ?,463 1,912 1,921 1,1011 1}
+{0 ?,38 1,146 1,261 1,921 1,970 1,1006 1,1037 1}
+{0 ?,465 1,466 1,509 1,620 1,659 1,921 1,1006 1}
+{0 ?,466 1,710 1,1006 1}
+{0 ?,15 1,68 1,238 1,352 1,376 1,436 1,452 1,559 1,659 1,923 1,996 1}
+{0 ?,68 1,132 1,435 1,514 1,659 1,921 1,959 1,1006 1}
+{0 ?,466 1,854 1,1006 1}
+{0 ?,452 1,731 1}
+{0 ?,466 1,715 1,1006 1}
+{0 ?,466 1,538 1,659 1,812 1,921 1,944 1,1006 1}
+{0 ?,328 1,436 1,466 1,856 1}
+{0 ?,196 1,365 1,452 1,466 1,757 1,762 1,1006 1}
+{0 ?,245 1,466 1,802 1,977 1,1006 1}
+{0 ?,169 1,400 1,406 1,1006 1}
+{0 ?,447 1,466 1,1006 1}
+{0 ?,97 1,466 1,1006 1}
+{0 ?,136 1,452 1,466 1,540 1,900 1,921 1,970 1,1006 1}
+{0 ?,15 1,466 1,688 1,1006 1}
+{0 ?,315 1,431 1,466 1,1006 1}
+{0 ?,274 1,574 1,1006 1}
+{0 ?,107 1,123 1,233 1,354 1,466 1,513 1,921 1,1006 1}
+{0 ?,452 1,466 1,558 1,905 1,921 1,1011 1,1028 1}
+{0 ?,68 1,190 1,921 1,957 1,1006 1}
+{0 ?,4 1,52 1,115 1,261 1,297 1,437 1,452 1,462 1,847 1,1006 1}
+{0 ?,466 1,519 1,551 1,659 1,880 1,921 1,1006 1}
+{0 ?,466 1,716 1,1006 1}
+{0 ?,75 1,466 1,497 1,720 1,780 1,921 1,1006 1}
+{0 ?,253 1,466 1,646 1,659 1,791 1,921 1,1006 1}
+{0 ?,151 1,201 1,285 1,466 1,498 1,921 1,943 1,1006 1}
+{0 ?,399 1,466 1,561 1,1006 1}
+{0 ?,68 1,279 1,452 1,575 1,707 1,970 1,1006 1,1030 1}
+{0 ?,34 1,46 1,140 1,275 1,341 1,354 1,725 1,921 1,936 1,995 1,1011 1}
+{0 ?,154 1,341 1,587 1,659 1,753 1,921 1,995 1,1011 1}
+{0 ?,31 1,68 1,436 1,452 1,559 1,629 1,921 1,923 1,970 1}
+{0 ?,261 1,390 1,459 1,584 1,725 1,1006 1}
+{0 ?,65 1,264 1,436 1,482 1,659 1,664 1,829 1,995 1,1007 1}
+{0 ?,276 1,359 1,567 1,921 1,1006 1,1027 1}
+{0 ?,260 1,466 1,1006 1}
+{0 ?,159 1,319 1,466 1,659 1,921 1,1006 1}
+{0 ?,51 1,306 1,354 1,436 1,466 1,539 1,748 1}
+{0 ?,261 1,262 1,436 1,476 1,486 1}
+{0 ?,448 1,452 1,466 1,504 1,752 1,921 1,1006 1}
+{0 ?,43 1,52 1,110 1,265 1,350 1,466 1,770 1,879 1,921 1,1006 1}
+{0 ?,466 1,675 1,1006 1}
+{0 ?,341 1,395 1,452 1,921 1,970 1,995 1,1011 1,1025 1}
+{0 ?,466 1,708 1,1006 1}
+{0 ?,317 1,354 1,466 1,921 1,973 1,1006 1}
+{0 ?,466 1,986 1,1006 1}
+{0 ?,15 1,105 1,261 1,663 1,877 1,1006 1,1037 1}
+{0 ?,16 1,354 1,466 1,919 1,921 1,1006 1}
+{0 ?,15 1,466 1,551 1,589 1,659 1,676 1,1006 1}
+{0 ?,15 1,126 1,466 1,602 1,667 1,921 1,1008 1,1029 1}
+{0 ?,481 1,620 1,802 1,995 1,1006 1,1015 1}
+{0 ?,276 1,354 1,474 1,874 1,1006 1}
+{0 ?,187 1,466 1,921 1,1006 1}
+{0 ?,144 1,429 1,466 1,1008 1}
+{0 ?,59 1,68 1,1006 1}
+{0 ?,337 1,466 1,764 1,1006 1}
+{0 ?,68 1,768 1,1006 1}
+{0 ?,466 1,622 1,1006 1}
+{0 ?,466 1,888 1,928 1,1006 1}
+{0 ?,191 1,452 1,466 1,505 1,921 1,970 1,1006 1}
+{0 ?,52 1,269 1,352 1,466 1,608 1,1006 1}
+{0 ?,15 1,114 1,278 1,321 1,466 1,520 1,659 1,921 1,1006 1}
+{0 ?,15 1,150 1,274 1,284 1,560 1,758 1,1006 1,1041 1}
+{0 ?,19 1,68 1,1006 1}
+{0 ?,445 1,466 1,1006 1}
+{0 ?,200 1,455 1,466 1,1006 1}
+{0 ?,15 1,104 1,160 1,274 1,410 1,436 1,452 1,472 1,664 1,672 1,786 1,936 1,1041 1}
+{0 ?,15 1,99 1,276 1,568 1,1006 1}
+{0 ?,15 1,200 1,388 1,466 1,802 1,938 1,1006 1}
+{0 ?,276 1,354 1,874 1,974 1,1006 1}
+{0 ?,261 1,392 1,642 1,667 1,890 1,921 1,1006 1,1037 1}
+{0 ?,466 1,851 1,1006 1,1020 1}
+{0 ?,71 1,243 1,261 1,503 1,601 1,632 1,667 1,921 1,1006 1}
+{0 ?,127 1,426 1,995 1,1007 1}
+{0 ?,466 1,791 1,808 1,921 1,1008 1}
+{0 ?,341 1,452 1,495 1,921 1,984 1,994 1,995 1,1011 1,1025 1}
+{0 ?,41 1,338 1,409 1,553 1,659 1,720 1,721 1,892 1,921 1,1006 1}
+{0 ?,38 1,395 1,466 1,659 1,921 1,1011 1}
+{0 ?,261 1,452 1,472 1,618 1,746 1,817 1,1006 1,1037 1}
+{0 ?,159 1,466 1,659 1,704 1,921 1,1006 1}
+{0 ?,300 1,466 1,921 1,940 1,1008 1}
+{0 ?,51 1,276 1,410 1,416 1,436 1,559 1,658 1}
+{0 ?,466 1,727 1,1006 1}
+{0 ?,247 1,452 1,466 1,501 1,921 1,970 1,1006 1}
+{0 ?,15 1,172 1,371 1,466 1,1006 1}
+{0 ?,62 1,341 1,667 1,749 1,921 1,936 1,956 1,970 1,995 1,1011 1}
+{0 ?,466 1,510 1,532 1,616 1,921 1,1008 1}
+{0 ?,68 1,659 1,921 1,958 1,959 1,961 1,1006 1}
+{0 ?,137 1,466 1,875 1,921 1,1006 1}
+{0 ?,258 1,466 1,1006 1}
+{0 ?,491 1,749 1,834 1,995 1,1007 1}
+{0 ?,466 1,935 1,1006 1}
+{0 ?,200 1,466 1,582 1,1006 1,1036 1}
+{0 ?,129 1,241 1,243 1,288 1,302 1,995 1,1006 1}
+{0 ?,276 1,467 1,567 1,910 1,915 1,921 1,1006 1}
+{0 ?,466 1,895 1,921 1,1012 1,1038 1}
+{0 ?,52 1,110 1,221 1,279 1,466 1,745 1,777 1,921 1,1006 1}
+{0 ?,20 1,129 1,523 1,995 1,1007 1}
+{0 ?,466 1,583 1,921 1,998 1,1006 1}
+{0 ?,466 1,593 1,1006 1}
+{0 ?,129 1,610 1,995 1,1006 1,1037 1}
+{0 ?,15 1,151 1,368 1,403 1,466 1,659 1,1006 1}
+{0 ?,466 1,620 1,659 1,700 1,802 1,831 1,921 1,1006 1,1016 1}
+{0 ?,393 1,466 1,570 1,659 1,728 1,921 1,1006 1}
+{0 ?,30 1,434 1,466 1,659 1,887 1,921 1,1006 1,1010 1}
+{0 ?,466 1,819 1,1006 1}
+{0 ?,369 1,370 1,466 1,551 1,569 1,807 1,1006 1}
+{0 ?,466 1,555 1,969 1,1006 1}
+{0 ?,126 1,219 1,440 1,452 1,466 1,659 1,702 1,921 1,996 1,1006 1}
+{0 ?,276 1,436 1,612 1,996 1,1002 1}
+{0 ?,151 1,484 1,548 1,749 1,759 1,782 1,802 1,995 1,1006 1}
+{0 ?,452 1,466 1,614 1,777 1,921 1,1006 1,1021 1}
+{0 ?,10 1,466 1,648 1,668 1,749 1,823 1,916 1,921 1,936 1,1011 1}
+{0 ?,85 1,466 1,659 1,743 1,921 1,1006 1}
+{0 ?,171 1,179 1,659 1,684 1,841 1,921 1,1011 1}
+{0 ?,15 1,620 1,881 1}
+{0 ?,192 1,298 1,466 1,659 1,667 1,921 1,989 1,1006 1}
+{0 ?,53 1,106 1,261 1,402 1,836 1,921 1,1006 1,1037 1}
+{0 ?,24 1,466 1,774 1,1006 1}
+{0 ?,243 1,454 1,466 1,576 1,659 1,802 1,921 1,1006 1}
+{0 ?,178 1,466 1,501 1,538 1,659 1,921 1,1006 1}
+{0 ?,346 1,450 1,466 1,877 1,921 1,1006 1}
+{0 ?,119 1,466 1,562 1,802 1,877 1,1006 1}
+{0 ?,466 1,769 1,1006 1}
+{0 ?,207 1,272 1,921 1,1011 1,1032 1}
+{0 ?,466 1,521 1,659 1,864 1,921 1,1006 1}
+{0 ?,15 1,338 1,353 1,466 1,659 1,921 1,1006 1,1014 1}
+{0 ?,68 1,151 1,452 1,544 1,729 1,914 1,1012 1,1046 1}
+{0 ?,277 1,452 1,496 1,659 1,681 1,921 1,939 1,995 1,1006 1,1024 1}
+{0 ?,15 1,466 1,931 1,1006 1}
+{0 ?,188 1,276 1,567 1,1006 1}
+{0 ?,73 1,124 1,125 1,165 1,369 1,415 1,466 1,546 1,668 1,920 1,921 1,936 1,1006 1}
+{0 ?,80 1,276 1,316 1,325 1,436 1,624 1,661 1,664 1,689 1,1039 1}
+{0 ?,23 1,24 1,466 1,1006 1}
+{0 ?,307 1,466 1,541 1,659 1,872 1,921 1,1006 1}
+{0 ?,15 1,24 1,200 1,208 1,218 1,276 1,461 1,471 1,531 1,687 1,891 1,954 1,1006 1,1007 1,1023 1}
+{0 ?,68 1,202 1,342 1,385 1,659 1,921 1,1006 1}
+{0 ?,466 1,605 1,797 1,921 1,1006 1}
+{0 ?,122 1,466 1,667 1,812 1,813 1,859 1,921 1,1006 1}
+{0 ?,84 1,466 1,659 1,839 1,921 1,1003 1,1006 1}
+{0 ?,134 1,240 1,274 1,452 1,925 1,972 1,1006 1}
+{0 ?,68 1,694 1,1006 1}
+{0 ?,229 1,269 1,466 1,550 1,1006 1}
+{0 ?,15 1,351 1,422 1,452 1,620 1,1048 1}
+{0 ?,164 1,261 1,312 1,649 1,921 1,965 1,1007 1}
+{0 ?,64 1,274 1,533 1,848 1,1008 1}
+{0 ?,68 1,318 1,1006 1}
+{0 ?,230 1,276 1,354 1,874 1,1006 1}
+{0 ?,51 1,57 1,466 1,1006 1}
+{0 ?,323 1,483 1,491 1,495 1,1011 1}
+{0 ?,341 1,659 1,749 1,921 1,970 1,983 1,995 1,1011 1}
+{0 ?,121 1,466 1,955 1,1006 1}
+{0 ?,51 1,87 1,341 1,427 1,452 1,453 1,749 1,789 1,921 1,936 1,970 1,995 1,1011 1}
+{0 ?,436 1,659 1,664 1,749 1,878 1,921 1,966 1,995 1,1042 1}
+{0 ?,129 1,398 1,802 1,963 1,995 1,1007 1}
+{0 ?,289 1,466 1,615 1,1006 1}
+{0 ?,166 1,452 1,534 1,638 1,921 1,1011 1}
+{0 ?,391 1,466 1,761 1,1006 1}
+{0 ?,15 1,270 1,466 1,686 1,1006 1}
+{0 ?,152 1,458 1,463 1,732 1,921 1,1011 1}
+{0 ?,15 1,162 1,466 1,1006 1}
+{0 ?,15 1,92 1,151 1,466 1,527 1,1006 1}
+{0 ?,466 1,743 1,802 1,921 1,1006 1,1028 1}
+{0 ?,466 1,633 1,1006 1}
+{0 ?,263 1,466 1,1006 1}
+{0 ?,466 1,619 1,1006 1}
+{0 ?,452 1,466 1,639 1,777 1,803 1,907 1,921 1,1006 1,1040 1}
+{0 ?,215 1,257 1,625 1,659 1,702 1,743 1,802 1,921 1,1006 1,1028 1}
+{0 ?,362 1,423 1,452 1,466 1,606 1,921 1,1006 1,1028 1}
+{0 ?,466 1,643 1,802 1,826 1,1006 1}
+{0 ?,305 1,417 1,466 1,627 1,655 1,921 1,1006 1}
+{0 ?,245 1,329 1,466 1,802 1,1007 1}
+{0 ?,25 1,276 1,354 1,623 1,874 1,921 1,1006 1}
+{0 ?,203 1,436 1,452 1,466 1,539 1,581 1,791 1,921 1}
+{0 ?,151 1,191 1,466 1,641 1,802 1,875 1,921 1,1006 1}
+{0 ?,161 1,267 1,466 1,1006 1}
+{0 ?,273 1,466 1,525 1,564 1,921 1,1008 1}
+{0 ?,130 1,692 1,908 1,921 1,995 1,1007 1}
+{0 ?,466 1,572 1,1006 1}
+{0 ?,63 1,508 1,667 1,749 1,971 1,1009 1}
+{0 ?,68 1,189 1,551 1,659 1,1006 1}
+{0 ?,159 1,466 1,659 1,921 1,1006 1,1047 1}
+{0 ?,276 1,354 1,623 1,874 1,1006 1}
+{0 ?,346 1,466 1,577 1,659 1,877 1,921 1,1006 1}
+{0 ?,68 1,818 1,1006 1}
+{0 ?,466 1,651 1,746 1,1006 1}
+{0 ?,15 1,466 1,950 1,1006 1}
+{0 ?,70 1,209 1,217 1,355 1,369 1,466 1,659 1,667 1,877 1,919 1,921 1,1011 1}
+{0 ?,5 1,452 1,749 1,995 1,1011 1}
+{0 ?,341 1,494 1,921 1,945 1,995 1,1007 1}
+{0 ?,68 1,154 1,802 1,917 1,959 1,1006 1}
+{0 ?,26 1,82 1,344 1,524 1,620 1,659 1,719 1,852 1,921 1,995 1,1006 1}
+{0 ?,381 1,466 1,1006 1}
+{0 ?,69 1,220 1,466 1,667 1,1006 1}
+{0 ?,147 1,175 1,301 1,452 1,507 1,595 1,773 1,921 1,985 1,995 1,1006 1}
+{0 ?,51 1,291 1,466 1,1006 1}
+{0 ?,193 1,466 1,537 1,795 1,905 1,921 1,1008 1}
+{0 ?,68 1,313 1,1006 1}
+{0 ?,268 1,680 1,1011 1}
+{0 ?,52 1,98 1,466 1,563 1,1006 1}
+{0 ?,80 1,389 1,466 1,542 1,620 1,877 1,921 1,933 1,936 1,967 1,1006 1}
+{0 ?,68 1,139 1,235 1,480 1,493 1,921 1,1008 1}
+{0 ?,341 1,649 1,705 1,733 1,778 1,921 1,936 1,995 1,1011 1}
+{0 ?,51 1,466 1,962 1,1006 1}
+{0 ?,466 1,981 1,1006 1}
+{0 ?,466 1,867 1,918 1,921 1,1006 1}
+{0 ?,245 1,341 1,466 1,659 1,660 1,894 1,921 1,1007 1}
+{0 ?,16 1,276 1,567 1,855 1,921 1,1006 1}
+{0 ?,119 1,138 1,452 1,466 1,846 1,921 1,1006 1}
+{0 ?,463 1,767 1,948 1,1011 1}
+{0 ?,68 1,378 1,452 1,921 1,949 1,1006 1}
+{0 ?,226 1,409 1,603 1,737 1,921 1,996 1,1009 1}
+{0 ?,306 1,354 1,466 1,620 1,811 1,921 1,1006 1}
+{0 ?,28 1,354 1,404 1,421 1,452 1,466 1,497 1,609 1,794 1,921 1,1011 1}
+{0 ?,111 1,135 1,261 1,277 1,424 1,443 1,659 1,679 1,921 1,1006 1}
+{0 ?,290 1,466 1,667 1,718 1,775 1,921 1,1006 1}
+{0 ?,34 1,46 1,341 1,452 1,529 1,647 1,756 1,921 1,936 1,995 1,1011 1,1019 1}
+{0 ?,245 1,466 1,695 1,802 1,872 1,1007 1}
+{0 ?,277 1,331 1,620 1,802 1,995 1,1006 1}
+{0 ?,104 1,200 1,202 1,387 1,591 1,631 1,717 1,921 1,936 1,1006 1}
+{0 ?,452 1,466 1,477 1,603 1,741 1,870 1,921 1,1006 1}
+{0 ?,27 1,95 1,452 1,457 1,466 1,849 1,921 1,1006 1}
+{0 ?,129 1,478 1,926 1,995 1,1007 1}
+{0 ?,15 1,104 1,197 1,436 1,783 1,835 1}
+{0 ?,463 1,912 1,921 1,995 1,1007 1}
+{0 ?,200 1,210 1,322 1,466 1,603 1,921 1,1006 1}
+{0 ?,228 1,341 1,394 1,452 1,878 1,921 1,966 1,995 1,1008 1}
+{0 ?,466 1,810 1,1006 1}
+{0 ?,54 1,466 1,1006 1}
+{0 ?,261 1,475 1,479 1,673 1,1006 1}
+{0 ?,119 1,466 1,639 1,802 1,877 1,1006 1,1040 1}
+{0 ?,452 1,466 1,624 1,689 1,921 1,975 1,1006 1}
+{0 ?,60 1,90 1,120 1,466 1,802 1,899 1,1006 1}
+{0 ?,168 1,340 1,452 1,607 1,877 1,921 1,1009 1,1031 1,1041 1}
+{0 ?,15 1,52 1,94 1,150 1,274 1,360 1,466 1,804 1,865 1,920 1,921 1,1006 1,1027 1,1041 1}
+{0 ?,68 1,698 1,1006 1}
+{0 ?,108 1,177 1,414 1,452 1,466 1,883 1,1006 1}
+{0 ?,68 1,173 1,851 1,1006 1}
+{0 ?,214 1,460 1,466 1,1006 1}
+{0 ?,68 1,158 1,1006 1}
+{0 ?,51 1,61 1,466 1,1006 1}
+{0 ?,240 1,276 1,547 1,972 1,1006 1}
+{0 ?,466 1,659 1,743 1,921 1,980 1,1006 1}
+{0 ?,143 1,354 1,466 1,659 1,738 1,960 1,973 1,982 1,1006 1}
+{0 ?,69 1,240 1,276 1,972 1,1006 1}
+{0 ?,15 1,466 1,924 1,1006 1}
+{0 ?,155 1,191 1,409 1,505 1,743 1,921 1,1006 1}
+{0 ?,68 1,200 1,232 1,1006 1}
+{0 ?,226 1,380 1,519 1,639 1,659 1,880 1,921 1,1009 1,1040 1}
+{0 ?,341 1,461 1,620 1,659 1,806 1,820 1,860 1,921 1,970 1,995 1,1006 1}
+{0 ?,15 1,161 1,358 1,466 1,659 1,747 1,766 1,882 1,1006 1}
+{0 ?,15 1,142 1,348 1,377 1,452 1,466 1,496 1,659 1,1006 1}
+{0 ?,74 1,466 1,788 1,1006 1}
+{0 ?,791 1,798 1,801 1,929 1,1006 1}
+{0 ?,176 1,466 1,685 1,1006 1}
+{0 ?,42 1,75 1,191 1,379 1,466 1,497 1,921 1,936 1,1005 1,1006 1}
+{0 ?,89 1,326 1,436 1,466 1,601 1,921 1}
+{0 ?,377 1,466 1,626 1,659 1,857 1,921 1,1006 1}
+{0 ?,7 1,37 1,78 1,261 1,345 1,427 1,428 1,452 1,556 1,830 1,861 1,970 1,1006 1}
+{0 ?,466 1,697 1,1006 1}
+{0 ?,116 1,466 1,1006 1}
+{0 ?,293 1,785 1,802 1,921 1,936 1,991 1,998 1,1006 1}
+{0 ?,261 1,473 1,487 1,667 1,876 1,921 1,934 1,1006 1,1037 1}
+{0 ?,51 1,64 1,436 1,466 1,612 1,659 1,996 1}
+{0 ?,11 1,659 1,749 1,921 1,970 1,995 1,1011 1}
+{0 ?,452 1,466 1,596 1,921 1,925 1,972 1,1006 1,1045 1}
+{0 ?,15 1,332 1,436 1,452 1,559 1,580 1}
+{0 ?,121 1,466 1,657 1,659 1,921 1,1006 1}
+{0 ?,296 1,466 1,1006 1}
