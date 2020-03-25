@@ -21,11 +21,12 @@ public class getBaselineModel
 	public static void main(String args[]) throws Exception{
 
 		Instances train = getBaselineModel.cargarInstancias(args[0]);
+		Instances dev = getBaselineModel.cargarInstancias(args[1]);
 
 		getBaselineModel.obtenerModeloNBM(train, args[2]);
 
-		getBaselineModel.calidadEstimadaNBM_HO(train, 70, args[2]);
-		//getBaselineModel.calidadEstimadaNBM_KFCV(train, 70, args[2]);
+		getBaselineModel.calidadEstimadaNBM_HO(train, dev, 70, args[3]);
+		//getBaselineModel.calidadEstimadaNBM_KFCV(train, dev, 70, args[3]);
 
 	}
 	
@@ -50,32 +51,24 @@ public class getBaselineModel
 		SerializationHelper.write(pRutaModelo, v);	
 	}
 	
-	private static void calidadEstimadaNBM_KFCV(Instances pData, int pFolds, String pRutaCalidad) throws Exception
+	private static void calidadEstimadaNBM_KFCV(Instances pTrain, Instances pTest, int pFolds, String pRutaCalidad) throws Exception
 	{
+		
+		pTrain.addAll(pTest);
 		NaiveBayesMultinomial clasificador = new NaiveBayesMultinomial(); 
-		Evaluation evaluador = new Evaluation(pData);
-		evaluador.crossValidateModel(clasificador, pData, pFolds, new Random(1));
+		Evaluation evaluador = new Evaluation(pTrain);
+		evaluador.crossValidateModel(clasificador, pTrain, pFolds, new Random(1));
 		obtenerResultados(evaluador, pRutaCalidad,  "INFORME DE LA CALIDAD ESTIMADA DEL MODELO: CLASIFICADOR = NAIVE BAYES MULTINOMIAL - ESQUEMA DE EVALUACION = K-FOLD CROSS VALIDATION");	
 	}
 	
-	private static void calidadEstimadaNBM_HO(Instances pData, double pPercentage, String pRutaCalidad) throws Exception
+	
+	private static void calidadEstimadaNBM_HO(Instances pTrain, Instances pTest, double pPercentage, String pRutaCalidad) throws Exception
 	{
-		// DIVISION DEL CONJUNTO DE DATOS EN TRAIN Y TEST
-		RemovePercentage remove = new RemovePercentage();
-		remove.setPercentage(pPercentage);
-										
-		remove.setInvertSelection(true);
-		remove.setInputFormat(pData);
-		Instances train = Filter.useFilter(pData, remove);
-										
-		remove.setInvertSelection(false);
-		remove.setInputFormat(pData);
-		Instances dev = Filter.useFilter(pData, remove);
-		
+	
 		NaiveBayesMultinomial clasificador = new NaiveBayesMultinomial();
-		clasificador.buildClassifier(train);
-		Evaluation evaluador = new Evaluation(train);
-		evaluador.evaluateModel(clasificador, dev);
+		clasificador.buildClassifier(pTrain);
+		Evaluation evaluador = new Evaluation(pTrain);
+		evaluador.evaluateModel(clasificador, pTest);
 		obtenerResultados(evaluador, pRutaCalidad, "INFORME DE LA CALIDAD ESTIMADA DEL MODELO: CLASIFICADOR = NAIVE BAYES MULTINOMIAL - ESQUEMA DE EVALUACION = HOLD-OUT");
 	}
 	
