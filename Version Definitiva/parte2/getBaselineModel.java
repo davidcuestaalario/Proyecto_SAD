@@ -19,14 +19,27 @@ public class getBaselineModel
 	public getBaselineModel(){}
 	
 	public static void main(String args[]) throws Exception{
+		
+		if(args.length == 5) {
 
-		Instances train = getBaselineModel.cargarInstancias(args[0]);
-		Instances dev = getBaselineModel.cargarInstancias(args[1]);
-
-		getBaselineModel.obtenerModeloNBM(train, args[2]);
-
-		getBaselineModel.calidadEstimadaNBM_HO(train, dev, 70, args[3]);
-		//getBaselineModel.calidadEstimadaNBM_KFCV(train, dev, 70, args[3]);
+			Instances train = getBaselineModel.cargarInstancias(args[0]);
+			Instances dev = getBaselineModel.cargarInstancias(args[1]);
+	
+			getBaselineModel.obtenerModeloNBM(train, args[2]);
+	
+			getBaselineModel.calidadEstimadaNBM_KFCV(train, dev, 70, args[3]);
+			getBaselineModel.calidadEstimadaNBM_HO(train, dev, 70, args[4]);
+			
+		}else if (args.length == 0) {
+			System.out.println("Programa que obtiene la calidad estimada a partir del ARFF mediante Naive Bayes Multinomial");
+    		System.out.println("@pre La clase es el ultimo atributo");
+    		System.out.println("@post Se han generado los ficheros del modelo y la calidad");
+    		System.out.println("@param Ruta del fichero train ARFF");
+    		System.out.println("@param Ruta del fichero test ARFF");
+    		System.out.println("@param Ruta del modelo");
+    		System.out.println("@param Ruta donde guardar la calidad estimada de la evaluacion K-Fold Cross-Validation.");
+    		System.out.println("@param Ruta donde guardar la calidad estimada de la evaluacion No Honesta.");
+		}
 
 	}
 	
