@@ -1,4 +1,4 @@
-package parte1;
+package Proyecto;
 
 public class PreProcesado 
 {
@@ -15,7 +15,7 @@ public class PreProcesado
 			// RUTA
 			GetRaw rawARFF = new GetRaw( "PRUEBAS" );
 			TransformRaw wordVector = new TransformRaw( "PRUEBAS" );
-			MakeCompatible remove = new MakeCompatible( "PRUEBAS" );
+			MakeCompatible compatible = new MakeCompatible( "PRUEBAS" );
 			
 			// FICHERO
 			rawARFF.getRawARFF( "train" );
@@ -40,15 +40,25 @@ public class PreProcesado
 			wordVector.filtradoAtributos("TFIDF" , "NonSparse");
 						
 			// BoW-TFIDF , Sparse-NonSparse
-			remove.RemoveTest("BoW"   , "Sparse");
-			remove.RemoveTest("TFIDF" , "Sparse");
-			remove.RemoveTest("BoW"   , "NonSparse");
-			remove.RemoveTest("TFIDF" , "NonSparse");
+			compatible.RemoveTest("BoW"   , "Sparse");
+			compatible.RemoveTest("TFIDF" , "Sparse");
+			compatible.RemoveTest("BoW"   , "NonSparse");
+			compatible.RemoveTest("TFIDF" , "NonSparse");
 			
-			remove.compatibleTest("BoW"   , "Sparse");
-			remove.compatibleTest("TFIDF" , "Sparse");
-			remove.compatibleTest("BoW"   , "NonSparse");
-			remove.compatibleTest("TFIDF" , "NonSparse");
+			compatible.compatibleTest("BoW"   , "Sparse");
+			compatible.compatibleTest("TFIDF" , "Sparse");
+			compatible.compatibleTest("BoW"   , "NonSparse");
+			compatible.compatibleTest("TFIDF" , "NonSparse");
+			
+			compatible.split("BoW"   , "Sparse" , true);
+			compatible.split("TFIDF" , "Sparse" , true);
+			compatible.split("BoW"   , "NonSparse" , true);
+			compatible.split("TFIDF" , "NonSparse" , true);
+			
+			compatible.split("BoW"   , "Sparse" , false);
+			compatible.split("TFIDF" , "Sparse" , false);
+			compatible.split("BoW"   , "NonSparse" , false);
+			compatible.split("TFIDF" , "NonSparse" , false);
 		}
 		else if( args.length == 3 ) 
 		{
@@ -76,7 +86,8 @@ public class PreProcesado
 			// BoW-TFIDF , Sparse-NonSparse
 			remove.RemoveTest( bow , sparse );
 			remove.compatibleTest( bow , sparse );
-			
+			remove.split( bow , sparse , true );
+			remove.split( bow , sparse , false );
 		}
 		else 
 		{

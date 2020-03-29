@@ -1,4 +1,4 @@
-package parte1;
+package Proyecto;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Enumeration;
+import java.util.Random;
 
 import weka.core.Attribute;
 import weka.core.Instances;
@@ -133,4 +134,58 @@ public class MakeCompatible
 		catch(Exception e) { e.printStackTrace(); }
 			
 		}
+
+	// DIVIDE LOS FICHEROS EN TRAIN Y TEST
+	public void split( String pBow , String pSparse , boolean pFiltrados ) 
+	{
+		try 
+		{
+			System.out.println("   Iniciando Split de " + pBow + "_" + pSparse + "... \n");
+			
+			String train_original;
+			String train_70;
+			String train_30;
+			if ( pFiltrados ) 
+			{
+				train_original = this.ruta + "/train_" + pBow + "_" + pSparse + "_Filtrados.arff";
+				train_70 = this.ruta + "/train_" + pBow + "_" + pSparse + "_Filtrados_Dev70.arff";
+				train_30 = this.ruta + "/train_" + pBow + "_" + pSparse + "_Filtrados_De30.arff";
+			}
+			else 
+			{
+				train_original = this.ruta + "/train_" + pBow + "_" + pSparse + ".arff";
+				train_70 = this.ruta + "/train_" + pBow + "_" + pSparse + "_Dev70.arff";
+				train_30 = this.ruta + "/train_" + pBow + "_" + pSparse + "_De30.arff";
+			}		
+		    	
+			DataSource source = new DataSource( train_original );
+			Instances pData = source.getDataSet();
+		   	if (pData.classIndex() == -1) { pData.setClassIndex(pData.numAttributes() - 1); }
+			
+			pData.randomize(new Random(1));
+	        
+	        // Se calcula el numero de instancias de cada set (train/test)
+	        int numInstances = pData.numInstances();
+			int numTrain = (int) (numInstances * 70 / 100);
+			int numTest = numInstances - numTrain;
+			
+	        // Se dividen los datos en los sets train y test
+			Instances trainData = new Instances(pData, 0, numTrain);
+			Instances testData = new Instances(pData, numTrain, numTest);
+			
+			// GUARDAR EL CONJUNTO DE DATOS EN UN ARFF 
+			BufferedWriter write_70 = new BufferedWriter(new FileWriter( train_70 ));
+			write_70.write( trainData.toString() );
+			write_70.flush();
+			write_70.close();
+			
+			BufferedWriter write_30 = new BufferedWriter(new FileWriter( train_30 ));
+			write_30.write( testData.toString() );
+			write_30.flush();
+			write_30.close();
+		    System.out.println("   Split finalizado... \n");
+		} 
+		catch (Exception e) { e.printStackTrace();	}
+	}
+
 }
